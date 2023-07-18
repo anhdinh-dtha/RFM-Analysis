@@ -1,5 +1,3 @@
-# RFM-Analysis
-
 # OVERVIEW
 
 Super Store is a ficional global retail store that has a lot of customers.
